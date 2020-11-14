@@ -1,9 +1,10 @@
 ### Sziasztok Levente vagyok! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+🌱 Jelenleg egy Fórumon dolgozok.
 ## Nyelvek: 
 <ul>
-  <li><img src="https://i.cdn29.hu/apix_collect_c/1010/java/java_screenshot_20120413132135_2_original_1150x645_cover.jpg" width="25px"> Java</li>
-  <li>💬 JavaScript</li> 
-  <li>💬 Python folyamatban..</li> 
+  <li>Java</li>
+  <li>JavaScript</li> 
+  <li>Python folyamatban..</li> 
 </ul> 
 
 ## Elérhetőségem:
