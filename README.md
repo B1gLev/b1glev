@@ -1,10 +1,16 @@
 ### Sziasztok Levente vagyok! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-16 éves programozást tanulok 😄 
+## Nyelvek:
+<ul>
+  <li>💬 Java</li>
+  <li>💬 JavaScript</li> 
+  <li>💬 Python folyamatban..</li> 
+</ul> 
 
 ## Elérhetőségem:
 <ul>
-  <li>💬 Discord: BigLev#2342li> 
+  <li>💬 Discord: BigLev#2342 </li> 
 </ul>
+
 <!--
 **B1gLev/b1glev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
