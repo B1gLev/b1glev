@@ -6,7 +6,7 @@
 <ul>
   <li><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>Java</li>
   <li><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> JavaScript</li> 
-  <li>Python folyamatban..</li> 
+  <li><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>Python folyamatban..</li> 
 </ul> 
 
 ## Elérhetőségem:
