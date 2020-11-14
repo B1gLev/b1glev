@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Sziasztok! Levente vagyok. 👋
+16 éves programozást tanulok 😄 
 <!--
 **B1gLev/b1glev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
