@@ -14,7 +14,7 @@
   <li>💬 Discord: BigLev#2342 </li> 
 </ul>
 
-[![B1gLev stat](https://github-readme-stats.vercel.app/api?username=B1gLev&theme=synthwave&show_icons=true)](https://github.com/B1gLev/TryWillon)
+[![B1gLev stat](https://github-readme-stats.vercel.app/api?username=B1gLev&theme=synthwave&show_icons=true)](https://github.com/B1gLev/b1glev)
 
 
 <!--
