@@ -14,7 +14,7 @@
   <li>💬 Discord: BigLev#2342 </li> 
 </ul>
 
-[![B1gLev statisztika](https://github-readme-stats.vercel.app/api?username=B1gLev)](https://github.com/B1gLev/github-readme-stats)
+[![B1gLev stat](https://github-readme-stats.vercel.app/api?username=B1gLev)](https://github.com/B1gLev/github-readme-stats)
 
 
 <!--
