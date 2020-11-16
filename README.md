@@ -13,7 +13,10 @@
 <ul>
   <li>💬 Discord: BigLev#2342 </li> 
 </ul>
-[![B1gLev statisztika](https://github-readme-stats.vercel.app/api?username=B1gLev)]
+
+[![B1gLev statisztika](https://github-readme-stats.vercel.app/api?username=B1gLev)](https://github.com/B1gLev/github-readme-stats)
+
+
 <!--
 **B1gLev/b1glev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
