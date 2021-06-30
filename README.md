@@ -1,15 +1,15 @@
-### Sziasztok Levente vagyok! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi, I'm Levente! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 :heart: Linux ✨ <br> 
-🔭 Jelenleg egy MMORPG szerveren dolgozom. 
+🔭 I am currently working on an MMORPG server.
  
-## Nyelvek: 
+## Languages: 
 <ul>
   <li><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>Java</li>
   <li><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> JavaScript</li> 
   <li><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>Python folyamatban..</li> 
 </ul> 
 
-## Elérhetőségem:
+## Contact:
 <ul>
   <li>💬 Discord: BigLev#2342 </li> 
 </ul>
