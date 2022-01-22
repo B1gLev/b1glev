@@ -1,6 +1,7 @@
 ### Hi, I'm Levente! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-:heart: Linux ✨ <br> 
-🔭 I am currently working on an MMORPG server. <br>
+:heart: Linux && Java ✨ <br> 
+🔭 I am currently working on an MMORPG server and MineZone servers. <br>
+🌱 I am currently learning GO language. <br>
 💬 Discord: **[BigLev#2342](https://discord.com/users/326265564341338123)**
  
 ## Languages: 
