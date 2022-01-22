@@ -1,6 +1,7 @@
 ### Hi, I'm Levente! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 :heart: Linux ✨ <br> 
 🔭 I am currently working on an MMORPG server.
+💬 Discord: BigLev#2342 
  
 ## Languages: 
  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"> </a>  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
@@ -13,9 +14,6 @@
 <a href="https://www.sublimetext.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/684879?s=200&v=4" alt="Sublime Text" width="40" height="40"/> </a>
 <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="IntelliJ IDEA" width="40" height="40"/> </a>
 <a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/0/0c/Xcode_icon.png" alt="XCode" width="40" height="40"/> </a>
-
-## Contact:
-💬 Discord: BigLev#2342
 
 [![B1gLev stat](https://github-readme-stats.vercel.app/api?username=B1gLev&theme=synthwave&show_icons=true)](https://github.com/B1gLev/b1glev)
 
