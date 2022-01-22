@@ -15,9 +15,7 @@
 <a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/0/0c/Xcode_icon.png" alt="XCode" width="40" height="40"/> </a>
 
 ## Contact:
-<ul>
-  <li>💬 Discord: BigLev#2342 </li> 
-</ul>
+💬 Discord: BigLev#2342
 
 [![B1gLev stat](https://github-readme-stats.vercel.app/api?username=B1gLev&theme=synthwave&show_icons=true)](https://github.com/B1gLev/b1glev)
 
