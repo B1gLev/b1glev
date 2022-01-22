@@ -1,6 +1,6 @@
 ### Hi, I'm Levente! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 :heart: Linux ✨ <br> 
-🔭 I am currently working on an MMORPG server.
+🔭 I am currently working on an MMORPG server. <br>
 💬 Discord: BigLev#2342 
  
 ## Languages: 
