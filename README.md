@@ -9,7 +9,7 @@
  
 ## Languages and Tools:
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,go,dotnet,nodejs,nextjs,ts,git,docker,gcp,mongodb,mysql,unity,idea&perline=5" />
+  <img src="https://skillicons.dev/icons?i=java,go,dotnet,nodejs,nextjs,ts,git,docker,gcp,mongodb,mysql,unity,idea,vscode,linux&perline=5" />
 </div>
 
 [![B1gLev stat](https://github-readme-stats.vercel.app/api?username=B1gLev&theme=synthwave&show_icons=true)](https://github.com/B1gLev/b1glev)
