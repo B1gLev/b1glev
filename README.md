@@ -9,11 +9,11 @@
 <br><br>
 
  
-## ⚒️ Languages and Tools ⚒️
+## Languages and Tools
 <img src="https://skillicons.dev/icons?i=java,go,dotnet,nodejs,nextjs,ts,git,docker,gcp,mongodb,mysql,unity,idea,vscode,linux&perline=7" />
-<br><br>
+<br>
 
-## ⚡ GitHub Stats ⚡
+<h2 align="center">GitHub Stats</h2>
 <div align="center">
  <a href="https://github.com/B1gLev/b1glev">
    <img src="https://github-readme-stats.vercel.app/api?username=B1gLev&theme=synthwave&show_icons=true">
