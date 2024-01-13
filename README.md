@@ -9,13 +9,15 @@
 <br><br>
 
  
-## Languages and Tools ⚒️
+## ⚒️ Languages and Tools ⚒️
 <img src="https://skillicons.dev/icons?i=java,go,dotnet,nodejs,nextjs,ts,git,docker,gcp,mongodb,mysql,unity,idea,vscode,linux&perline=5" />
 <br><br>
 
-## Stats ⚡
+## ⚡ GitHub Stats ⚡
 <div align="center">
- [![B1gLev stat](https://github-readme-stats.vercel.app/api?username=B1gLev&theme=synthwave&show_icons=true)](https://github.com/B1gLev/b1glev)
+ <a href="https://github.com/B1gLev/b1glev">
+   <img src="https://github-readme-stats.vercel.app/api?username=B1gLev&theme=synthwave&show_icons=true">
+ </a>
 </div>
 
 
