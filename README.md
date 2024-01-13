@@ -6,14 +6,17 @@
 🔭 I am currently working on an MMORPG server and RivalsNetwork servers. <br>
 🌱 I am currently learning GO language. <br>
 💬 You can reach me on Discord under this name **[BigLev#2342](https://discord.com/users/326265564341338123)**
-
+<br><br>
 
  
-## Languages and Tools:
+## Languages and Tools ⚒️
 <img src="https://skillicons.dev/icons?i=java,go,dotnet,nodejs,nextjs,ts,git,docker,gcp,mongodb,mysql,unity,idea,vscode,linux&perline=5" />
+<br><br>
 
-
-[![B1gLev stat](https://github-readme-stats.vercel.app/api?username=B1gLev&theme=synthwave&show_icons=true)](https://github.com/B1gLev/b1glev)
+## Stats ⚡
+<div align="center">
+ [![B1gLev stat](https://github-readme-stats.vercel.app/api?username=B1gLev&theme=synthwave&show_icons=true)](https://github.com/B1gLev/b1glev)
+</div>
 
 
 <!--
