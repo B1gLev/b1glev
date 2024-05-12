@@ -10,7 +10,7 @@
 
  
 ## Languages and Tools
-<img src="https://skillicons.dev/icons?i=java,go,dotnet,nodejs,nextjs,ts,git,docker,gcp,mongodb,mysql,unity,idea,vscode,linux&perline=7" />
+<img src="https://skillicons.dev/icons?i=java,go,dotnet,nodejs,nextjs,angular,ts,python,git,docker,gcp,mongodb,mysql,unity,idea,vscode,linux,apple,windows&perline=7" />
 <br>
 
 <h2 align="center">GitHub Stats</h2>
