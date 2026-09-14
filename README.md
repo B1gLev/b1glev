@@ -1,10 +1,10 @@
 <div align="center">
     <h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Levente!</h1>
-    <p>Full-stack & Backend Developer | SysAdmin</p>
+    <p>Software Engineer | SysAdmin</p>
 </div>
 
 ### About Me
-Full-stack and backend developer experienced in building scalable systems, robust APIs, and modern web applications. Comfortable handling the full lifecycle of software - from designing schemas and containerized deployments to implementing high-performance services in Java and Go.
+Software Engineer and SysAdmin experienced in building scalable systems, robust APIs, and modern web applications. Comfortable handling the full lifecycle of software - from designing database schemas and containerized deployments to implementing high-performance services in Java and Go.
 
 Beyond application development, I have a strong interest in low-level networking, systems programming, and cloud architecture.
 
